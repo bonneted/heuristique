@@ -4,5 +4,5 @@ Several heuristic optimization algorithms (Simulated annealing (SA), Particule S
 
 Interface for Particule Swarm :
 
+![image](https://user-images.githubusercontent.com/53513604/111312917-10192d80-8660-11eb-952e-aa30a9ff9069.png)
 
-![image](https://user-images.githubusercontent.com/53513604/111267337-15f51b80-862c-11eb-8d5c-0ac7b7d22969.png)
